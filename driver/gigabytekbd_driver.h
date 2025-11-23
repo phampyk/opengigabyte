@@ -36,7 +36,7 @@ struct gigabyte_kbd_touchpad_device_identifier {
 const struct gigabyte_kbd_touchpad_device_identifier gigabyte_kbd_touchpad_device_identifiers[] = {
     { "PNP0C50", "TPD0", 1 }, // 15P (and probably more)
     { "ELAN0A02", "TPD0", 0 }, // 17X (and probably more)
-    { "ELAN0A03", "TPD0", 1 }  // AORUS 15 9KF
+    { "ELAN0A03", "TPD0", 1 }  // 15 9KF
 };
 
 #endif
